@@ -10,7 +10,7 @@
 - [ ] 《交易策略评估与最佳化》罗伯特·帕多
 - [ ] [《统计套利》 安德鲁·波尔](21.pdf)
 - [ ] 《信号与噪声》纳特•西尔弗
-- [x] [《量化投资—策略与技术》丁鹏](9.pdf)
+- [x] [**《量化投资—策略与技术》丁鹏**](9.pdf)
 - [x] [量化投资策略:如何实现超额收益Alpha-吴冲锋](4.pdf)
 - [ ] 《以交易为生》埃尔德
 - [ ] 《高级技术分析》布鲁斯·巴布科克
@@ -18,16 +18,14 @@
 - [ ] 《金融计量学:从初级到高级建模技术》斯维特洛扎
 - [x] [量化交易 如何建立自己的算法交易事业-欧内斯特·陈](5.pdf)
 - [x] 《聪明的投资者》 本杰明·格雷厄姆
-- [ ] 《期权、期货和其他衍生品》 约翰·赫尔
 - [x] 《Active Portfolio Management（APM）》Grinold & Kahn
 - [x] 《Quantitative Equity Portfolio Management（QEPM）》Ludwig Chincarini
 - [x] [Starting Your Career as a Wall Street Quant](22.pdf): Starting Your Career as a Wall Street Quant is the first and only career guide specifically written for readers who want to get into quantitative finance and launch a lucrative career.
-- [ ] [How I Became a Quant: Insights from 25 of Wall Street's Elite](https://www.amazon.com/How-Became-Quant-Insights-Streets/dp/0470452579)
+- [x] [How I Became a Quant: Insights from 25 of Wall Street's Elite](23.pdf)
 - [ ] [Market Microstructure in Practice](6.pdf)
 - [ ] [SMART PORTFOLIOS: A practical guide to building and maintaining intelligent investment portfolios](7.pdf)
 - [ ] [基本面量化投资](8.pdf)
 - [ ] [Quant Job Interview](10.pdf)
-- [ ] [VAULT GUIDE TO finace interview](11.pdf)
 - [x] [利用Python进行数据分析](12.pdf)
 - [ ] [Bodie's Investments, 10th Edition](14.pdf)
 - [ ] [Hull J.C.-Options, Futures and Other Derivatives_9th edition](15.pdf)
