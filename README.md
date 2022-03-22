@@ -1,7 +1,6 @@
 # Book List
-- [x] [A practical guide of qunat interview](1.pdf)
-- [ ] [Algorithmic Trading and Quantitative Strategies](https://github.com/NehrenD/algo_trading_and_quant_strategies): it provides a growing collection of Jupyter® notebooks that will bring to life the topics covered in our book. They will providing practical examples and usable code to help the reader extract maximum value from the material. It also provides guided exercises, again as notebooks, to allow students to deepen their understanding through hands on practice.
-- [x] [打开量化投资的黑箱-里什·纳兰](2.pdf)
+- [x] [**Algorithmic Trading and Quantitative Strategies**](11.pdf): it provides a growing collection of Jupyter® notebooks that will bring to life the topics covered in our book. They will providing practical examples and usable code to help the reader extract maximum value from the material. It also provides guided exercises, again as notebooks, to allow students to deepen their understanding through hands on practice. [[code]](https://github.com/NehrenD/algo_trading_and_quant_strategies)
+- [x] [**打开量化投资的黑箱-里什·纳兰**](2.pdf)
 - [x] [Inside the black box: a simple guide quantitative and high frequency trading](13.pdf)
 - [x] [《宽客》[美] 斯科特·帕特森](18.pdf)
 - [x] [解读量化投资：西蒙斯用公式打败市场的故事-忻海](3.pdf)
@@ -25,11 +24,14 @@
 - [ ] [Market Microstructure in Practice](6.pdf)
 - [ ] [SMART PORTFOLIOS: A practical guide to building and maintaining intelligent investment portfolios](7.pdf)
 - [ ] [基本面量化投资](8.pdf)
-- [ ] [Quant Job Interview](10.pdf)
 - [x] [利用Python进行数据分析](12.pdf)
 - [ ] [Bodie's Investments, 10th Edition](14.pdf)
 - [ ] [Hull J.C.-Options, Futures and Other Derivatives_9th edition](15.pdf)
-- [ ] [VAULT GUIDE TO ADVANCED FINANCE AND QUANTITATIVE INTERVIEWS](16.pdf)
+
+## Interview
+- [x] [A practical guide of qunat interview](1.pdf)
+- [ ] [Quant Job Interview](10.pdf)
 - [ ] [Vault Guide to Finance Interviews](17.pdf)
+- [ ] [VAULT GUIDE TO ADVANCED FINANCE AND QUANTITATIVE INTERVIEWS](16.pdf)
 # MISC
 - [Books repo](https://github.com/beimingmaster/quant-resources) provides book source.
