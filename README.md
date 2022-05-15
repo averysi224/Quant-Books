@@ -27,6 +27,7 @@
 - [x] [利用Python进行数据分析](12.pdf)
 - [ ] [Bodie's Investments, 10th Edition](14.pdf)
 - [ ] [Hull J.C.-Options, Futures and Other Derivatives_9th edition](15.pdf)
+- [ ] [Artificial Intelligence in Finance](24.pdf): [code for book](https://github.com/yhilpisch/aiif)
 
 ## Interview
 - [x] [A practical guide of qunat interview](1.pdf)
