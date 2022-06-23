@@ -31,8 +31,9 @@
 
 ## Interview
 - [x] [A practical guide of qunat interview](1.pdf)
-- [ ] [Quant Job Interview](10.pdf)
-- [ ] [Vault Guide to Finance Interviews](17.pdf)
-- [ ] [VAULT GUIDE TO ADVANCED FINANCE AND QUANTITATIVE INTERVIEWS](16.pdf)
+- [x] [Quant Job Interview](10.pdf)
+- [x] [Vault Guide to Finance Interviews](17.pdf)
+- [x] [VAULT GUIDE TO ADVANCED FINANCE AND QUANTITATIVE INTERVIEWS](16.pdf)
+- [ ] [Heard On The Street, Quantitative Questions From Wall Street Job Interviews](25.pdf)
 # MISC
 - [Books repo](https://github.com/beimingmaster/quant-resources) provides book source.
